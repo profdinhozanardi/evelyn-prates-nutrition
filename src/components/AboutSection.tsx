@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import evelynAbout from "@/assets/evelyn-professional.jpg";
+import evelynAbout from "@/assets/evelyn-hero.jpg";
 
 const AboutSection = () => {
   return (
