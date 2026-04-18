@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { ClipboardCheck, User, Target, Sparkles } from "lucide-react";
 
-const WHATSAPP_LINK = "https://wa.me/5500000000000?text=Olá! Quero agendar meu diagnóstico nutricional";
+const WHATSAPP_LINK = "https://wa.me/5511953352247?text=Olá! Quero agendar meu diagnóstico nutricional";
 
 const steps = [
   {
